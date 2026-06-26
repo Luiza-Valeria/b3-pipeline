@@ -1,5 +1,10 @@
 # 📈 Pipeline ETL de Dados Financeiros da B3
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Prefect](https://img.shields.io/badge/Orquestração-Prefect-brightgreen)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
+![Tests](https://img.shields.io/badge/Testes-5%20passed-brightgreen)
+
 ## 📖 Sobre o Projeto
 
 Este projeto consiste na construção de um pipeline ETL para extração, transformação e armazenamento de dados financeiros obtidos por meio da API Alpha Vantage.
